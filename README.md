@@ -1,2 +1,2 @@
 # NLP_work
-NLP-LSTM
+myLSTM.py 是自己实现的LSTM模型。
