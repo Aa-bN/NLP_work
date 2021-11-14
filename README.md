@@ -16,5 +16,19 @@ D. 输出outputs，每层最终的hidden state, cell state
 E. 对于模型输入输出的tensor数据，规范了其shape  
 ## 模型测试
 测试生成的模型，保存在了目录models中。  
+① 示例程序运行结果（层数=1，默认hidden state，cell state）:  
+![images](pic/test1.png)  
+② 项目模型（层数=1，默认hidden state，cell state）：  
+![images](pic/test2.png)  
+③ 项目模型（层数=1，随机hidden state，cell state）：  
+![images](pic/test3.png)  
+④ 项目模型（层数=2，默认hidden state，cell state）:  
+![images](pic/test4.png)  
+⑤ 项目模型（层数=2，随机hidden state，cell state）：
+![images](pic/test5.png)  
+### 测试结果：  
+![images](pic/table.PNG)  
+### 模型已经保存在目录models中，模型名称与图片中的对应  
+
 
 
